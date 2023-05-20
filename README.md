@@ -9,3 +9,7 @@
                                                                        
 
 Yet another penetration testing framework
+
+#Installation: Windows
+
+win_install.bat
