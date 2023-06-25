@@ -1,0 +1,334 @@
+tee: outscan/whoisfiles/62.10.28.80: No such file or directory
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '62.10.0.0 - 62.10.255.255'
+
+% Abuse contact for '62.10.0.0 - 62.10.255.255' is 'abuse@tiscali.it'
+
+inetnum:        62.10.0.0 - 62.10.255.255
+netname:        TISCALINET
+descr:          Tiscali Italia SpA
+descr:          PROVIDER
+country:        IT
+admin-c:        PC2538-RIPE
+tech-c:         TI335-RIPE
+tech-c:         TA2688-RIPE
+remarks:        --------------------------------------------------------
+remarks:
+remarks:        Regarding spam and/or abuse complaints please report to:
+remarks:        abuse@tiscali.it
+remarks:
+remarks:        !! ALL EMAILS REGARDING SPAM AND/OR ABUSE  COMPLAINTS !!
+remarks:        !!          SENT TO AN OTHER EMAIL ADDRESS THAN       !!
+remarks:        !!                    abuse@tiscali.it                !!
+remarks:        !!      WILL BE IGNORED AND TREATED AS SPAM BY US !   !!
+remarks:
+remarks:        --------------------------------------------------------
+status:         ASSIGNED PA
+mnt-by:         AS8612-MNT
+created:        2013-09-25T15:24:04Z
+last-modified:  2013-09-25T15:24:04Z
+source:         RIPE # Filtered
+
+role:           Tiscali IT
+address:        Tiscali Italia S.p.A.
+address:        SS 195 Km 2.300
+address:        localita Sa Illetta
+address:        09122 - Cagliari
+address:        Italy
+phone:          +39 070 46011
+fax-no:         +39 070 4609115
+remarks:        --------------------------------------------------------
+remarks:
+remarks:        Regarding spam and/or abuse complaints please report to:
+remarks:        abuse@tiscali.it
+remarks:
+remarks:        !! ALL EMAILS REGARDING SPAM AND/OR ABUSE COMPLAINTS !!
+remarks:        !! SENT TO AN OTHER EMAIL ADDRESS THAN !!
+remarks:        !! abuse@tiscali.it !!
+remarks:        !! WILL BE IGNORED AND TREATED AS SPAM BY US ! !!
+remarks:
+remarks:        --------------------------------------------------------
+admin-c:        PC2538-RIPE
+admin-c:        MS54204-RIPE
+tech-c:         PC2538-RIPE
+tech-c:         TA2688-RIPE
+tech-c:         MS54204-RIPE
+nic-hdl:        TI335-RIPE
+mnt-by:         AS8612-MNT
+created:        2002-02-26T08:36:00Z
+last-modified:  2022-04-11T07:15:00Z
+source:         RIPE # Filtered
+
+person:         Maurizio Scano
+address:        Tiscali Italia SpA
+address:        SS. 195 Km. 2,300
+address:        09122 Cagliari
+address:        Sardinia - Italy
+remarks:        Network Engineer
+phone:          +39 070 46011
+fax-no:         +39 070 4609115
+nic-hdl:        PC2538-RIPE
+mnt-by:         AS8612-MNT
+created:        2003-12-09T11:00:07Z
+last-modified:  2022-07-01T04:58:13Z
+source:         RIPE # Filtered
+
+person:         Tiscali Abuse
+address:        Loc. Sa Illetta , S.S 195 Km 2,300
+address:        09122 Cagliari - Italy
+phone:          +39 070 46011
+nic-hdl:        TA2688-RIPE
+created:        2010-02-15T09:26:06Z
+last-modified:  2013-07-15T09:50:56Z
+source:         RIPE # Filtered
+mnt-by:         AS8612-MNT
+
+% Information related to '62.10.0.0/15AS8612'
+
+route:          62.10.0.0/15
+descr:          Tiscali Italia SpA
+origin:         AS8612
+mnt-by:         AS8612-MNT
+created:        2001-09-24T08:36:25Z
+last-modified:  2009-02-26T09:51:38Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.106.1 (ABERDEEN)
+
+
+Remote directory: /
+Passive mode: off; fallback to active mode: off.
+drwxrwxrwx  66 0        0            4096 Dec 14  2022 DISCO-6
+drwxrwxrwx  15 0        100          4096 Jul 26  2022 archivio
+drwxr-xr-x   2 0        0            4096 Jul 27  2017 home
+tee: outscan/whoisfiles/62.10.43.5: No such file or directory
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '62.10.0.0 - 62.10.255.255'
+
+% Abuse contact for '62.10.0.0 - 62.10.255.255' is 'abuse@tiscali.it'
+
+inetnum:        62.10.0.0 - 62.10.255.255
+netname:        TISCALINET
+descr:          Tiscali Italia SpA
+descr:          PROVIDER
+country:        IT
+admin-c:        PC2538-RIPE
+tech-c:         TI335-RIPE
+tech-c:         TA2688-RIPE
+remarks:        --------------------------------------------------------
+remarks:
+remarks:        Regarding spam and/or abuse complaints please report to:
+remarks:        abuse@tiscali.it
+remarks:
+remarks:        !! ALL EMAILS REGARDING SPAM AND/OR ABUSE  COMPLAINTS !!
+remarks:        !!          SENT TO AN OTHER EMAIL ADDRESS THAN       !!
+remarks:        !!                    abuse@tiscali.it                !!
+remarks:        !!      WILL BE IGNORED AND TREATED AS SPAM BY US !   !!
+remarks:
+remarks:        --------------------------------------------------------
+status:         ASSIGNED PA
+mnt-by:         AS8612-MNT
+created:        2013-09-25T15:24:04Z
+last-modified:  2013-09-25T15:24:04Z
+source:         RIPE # Filtered
+
+role:           Tiscali IT
+address:        Tiscali Italia S.p.A.
+address:        SS 195 Km 2.300
+address:        localita Sa Illetta
+address:        09122 - Cagliari
+address:        Italy
+phone:          +39 070 46011
+fax-no:         +39 070 4609115
+remarks:        --------------------------------------------------------
+remarks:
+remarks:        Regarding spam and/or abuse complaints please report to:
+remarks:        abuse@tiscali.it
+remarks:
+remarks:        !! ALL EMAILS REGARDING SPAM AND/OR ABUSE COMPLAINTS !!
+remarks:        !! SENT TO AN OTHER EMAIL ADDRESS THAN !!
+remarks:        !! abuse@tiscali.it !!
+remarks:        !! WILL BE IGNORED AND TREATED AS SPAM BY US ! !!
+remarks:
+remarks:        --------------------------------------------------------
+admin-c:        PC2538-RIPE
+admin-c:        MS54204-RIPE
+tech-c:         PC2538-RIPE
+tech-c:         TA2688-RIPE
+tech-c:         MS54204-RIPE
+nic-hdl:        TI335-RIPE
+mnt-by:         AS8612-MNT
+created:        2002-02-26T08:36:00Z
+last-modified:  2022-04-11T07:15:00Z
+source:         RIPE # Filtered
+
+person:         Maurizio Scano
+address:        Tiscali Italia SpA
+address:        SS. 195 Km. 2,300
+address:        09122 Cagliari
+address:        Sardinia - Italy
+remarks:        Network Engineer
+phone:          +39 070 46011
+fax-no:         +39 070 4609115
+nic-hdl:        PC2538-RIPE
+mnt-by:         AS8612-MNT
+created:        2003-12-09T11:00:07Z
+last-modified:  2022-07-01T04:58:13Z
+source:         RIPE # Filtered
+
+person:         Tiscali Abuse
+address:        Loc. Sa Illetta , S.S 195 Km 2,300
+address:        09122 Cagliari - Italy
+phone:          +39 070 46011
+nic-hdl:        TA2688-RIPE
+created:        2010-02-15T09:26:06Z
+last-modified:  2013-07-15T09:50:56Z
+source:         RIPE # Filtered
+mnt-by:         AS8612-MNT
+
+% Information related to '62.10.0.0/15AS8612'
+
+route:          62.10.0.0/15
+descr:          Tiscali Italia SpA
+origin:         AS8612
+mnt-by:         AS8612-MNT
+created:        2001-09-24T08:36:25Z
+last-modified:  2009-02-26T09:51:38Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.106.1 (BUSA)
+
+
+Remote directory: /
+Passive mode: off; fallback to active mode: off.
+drwxr-xr-x    2 0          0                1024 May 16 03:15 .
+drwxr-xr-x    2 0          0                1024 May 16 03:15 ..
+drwxrwxrwx    1 0          0                  23 May 16 03:15 SCANSIONI
+drwxrwxrwx    1 0          0                  18 May 16 03:15 TVCC
+tee: outscan/whoisfiles/62.10.57.100: No such file or directory
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '62.10.0.0 - 62.10.255.255'
+
+% Abuse contact for '62.10.0.0 - 62.10.255.255' is 'abuse@tiscali.it'
+
+inetnum:        62.10.0.0 - 62.10.255.255
+netname:        TISCALINET
+descr:          Tiscali Italia SpA
+descr:          PROVIDER
+country:        IT
+admin-c:        PC2538-RIPE
+tech-c:         TI335-RIPE
+tech-c:         TA2688-RIPE
+remarks:        --------------------------------------------------------
+remarks:
+remarks:        Regarding spam and/or abuse complaints please report to:
+remarks:        abuse@tiscali.it
+remarks:
+remarks:        !! ALL EMAILS REGARDING SPAM AND/OR ABUSE  COMPLAINTS !!
+remarks:        !!          SENT TO AN OTHER EMAIL ADDRESS THAN       !!
+remarks:        !!                    abuse@tiscali.it                !!
+remarks:        !!      WILL BE IGNORED AND TREATED AS SPAM BY US !   !!
+remarks:
+remarks:        --------------------------------------------------------
+status:         ASSIGNED PA
+mnt-by:         AS8612-MNT
+created:        2013-09-25T15:24:04Z
+last-modified:  2013-09-25T15:24:04Z
+source:         RIPE # Filtered
+
+role:           Tiscali IT
+address:        Tiscali Italia S.p.A.
+address:        SS 195 Km 2.300
+address:        localita Sa Illetta
+address:        09122 - Cagliari
+address:        Italy
+phone:          +39 070 46011
+fax-no:         +39 070 4609115
+remarks:        --------------------------------------------------------
+remarks:
+remarks:        Regarding spam and/or abuse complaints please report to:
+remarks:        abuse@tiscali.it
+remarks:
+remarks:        !! ALL EMAILS REGARDING SPAM AND/OR ABUSE COMPLAINTS !!
+remarks:        !! SENT TO AN OTHER EMAIL ADDRESS THAN !!
+remarks:        !! abuse@tiscali.it !!
+remarks:        !! WILL BE IGNORED AND TREATED AS SPAM BY US ! !!
+remarks:
+remarks:        --------------------------------------------------------
+admin-c:        PC2538-RIPE
+admin-c:        MS54204-RIPE
+tech-c:         PC2538-RIPE
+tech-c:         TA2688-RIPE
+tech-c:         MS54204-RIPE
+nic-hdl:        TI335-RIPE
+mnt-by:         AS8612-MNT
+created:        2002-02-26T08:36:00Z
+last-modified:  2022-04-11T07:15:00Z
+source:         RIPE # Filtered
+
+person:         Maurizio Scano
+address:        Tiscali Italia SpA
+address:        SS. 195 Km. 2,300
+address:        09122 Cagliari
+address:        Sardinia - Italy
+remarks:        Network Engineer
+phone:          +39 070 46011
+fax-no:         +39 070 4609115
+nic-hdl:        PC2538-RIPE
+mnt-by:         AS8612-MNT
+created:        2003-12-09T11:00:07Z
+last-modified:  2022-07-01T04:58:13Z
+source:         RIPE # Filtered
+
+person:         Tiscali Abuse
+address:        Loc. Sa Illetta , S.S 195 Km 2,300
+address:        09122 Cagliari - Italy
+phone:          +39 070 46011
+nic-hdl:        TA2688-RIPE
+created:        2010-02-15T09:26:06Z
+last-modified:  2013-07-15T09:50:56Z
+source:         RIPE # Filtered
+mnt-by:         AS8612-MNT
+
+% Information related to '62.10.0.0/15AS8612'
+
+route:          62.10.0.0/15
+descr:          Tiscali Italia SpA
+origin:         AS8612
+mnt-by:         AS8612-MNT
+created:        2001-09-24T08:36:25Z
+last-modified:  2009-02-26T09:51:38Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.106.1 (SHETLAND)
+
+
+Remote directory: /
+Passive mode: off; fallback to active mode: off.
+drwxr-xr-x    2 0          0                1024 Apr 13 07:23 .
+drwxr-xr-x    2 0          0                1024 Apr 13 07:23 ..
+drwxrwxrwx    1 0          0                  13 Apr 13 07:23 Volume_1

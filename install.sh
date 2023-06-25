@@ -24,4 +24,6 @@ if [ $? -ne 0 ]; then
     
 fi
 
+sudo apt-get install nmap
+sudo apt-get install hydra
 chmod +x install_aux.sh && ./install_aux.sh

@@ -1,15 +1,17 @@
-
- _____ _               _     _____      _                  _           
-|  __ \ |             | |   |_   _|    | |                | |          
-| |  \/ |__   ___  ___| |_    | | _ __ | |_ _ __ _   _  __| | ___ _ __ 
-| | __| '_ \ / _ \/ __| __|   | || '_ \| __| '__| | | |/ _` |/ _ \ '__|
-| |_\ \ | | | (_) \__ \ |_   _| || | | | |_| |  | |_| | (_| |  __/ |   
- \____/_| |_|\___/|___/\__|  \___/_| |_|\__|_|   \__,_|\__,_|\___|_|   
-                                                                       
-                                                                       
-
+# Ghost Intruder
 Yet another penetration testing framework
 
-#Installation: Windows
+
+## Installation: Linux
+
+```bash
+
+./install.sh
+```
+
+## Installation: Windows
+
+```batch
 
 win_install.bat
+```

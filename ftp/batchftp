@@ -1,0 +1,6 @@
+quote USER anonymous
+quote PASS pass@tellme.com
+pwd
+passive off
+ls
+quit
