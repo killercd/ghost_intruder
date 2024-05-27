@@ -30,6 +30,8 @@
 #include <iostream>
 #include <string>
 #include <vector>
+#include <cstdio>
+#include <cwchar>  
 
 #pragma comment(lib, "Ws2_32.lib")
 
