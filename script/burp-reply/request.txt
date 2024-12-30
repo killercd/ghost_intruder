@@ -1,0 +1,20 @@
+POST /componentupdater/api/v1/update HTTP/2
+Host: edge.microsoft.com
+Content-Length: 1458
+X-Microsoft-Update-Service-Cohort: 4639
+Content-Type: application/json
+Sec-Mesh-Client-Edge-Version: 131.0.2903.99
+Sec-Mesh-Client-Edge-Channel: stable
+Sec-Mesh-Client-Os: Windows
+Sec-Mesh-Client-Os-Version: 10.0.22631
+Sec-Mesh-Client-Arch: x86_64
+Sec-Mesh-Client-Webview: 0
+X-Client-Data: CMiRywE=
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+Accept-Encoding: gzip, deflate, br
+Priority: u=4, i
+
+{"request":{"@os":"win","@updater":"msedge","acceptformat":"crx3","app":[{"appid":"jcmcegpcehdchljeldgmmfbgcpnmgedo","brand":"INBX","cohort":"rrf@0.07","enabled":true,"event":[{"download_time_ms":4038,"downloaded":178335,"downloader":"bits","eventresult":1,"eventtype":14,"nextversion":"2024.12.14.5","previousversion":"2024.12.13.4","total":178335,"url":"http://msedge.b.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/c24e88e1-8ebc-420a-8b50-ddc1a5ad7d16?P1=1734771102&P2=404&P3=2&P4=OqhINsQNlUCipMK8lmMdtuGxyzFaiS46uO6APSEYJpg0UYYK4LzwY8iaROGfhETcczfUdnYa8yVw%2bZA%2b8KiS4Q%3d%3d"},{"eventresult":1,"eventtype":3,"install_time_ms":84,"nextfp":"1.A6DB1D84E28DA1A209592C65C6688BEC8B8DCAF5FB6413D0B2FEF125DEEB8DB8","nextversion":"2024.12.14.5","previousfp":"1.5BD7EBDF12D53B550F896C5848C015556ABF7FB7385EDBF294DFD8567E715745","previousversion":"2024.12.13.4"}],"installdate":-1,"lang":"it","packages":{"package":[{"fp":"1.A6DB1D84E28DA1A209592C65C6688BEC8B8DCAF5FB6413D0B2FEF125DEEB8DB8"}]},"version":"2024.12.14.5"}],"arch":"x64","dedup":"cr","domainjoined":false,"hw":{"avx":1,"physmemory":15,"sse":1,"sse2":1,"sse3":1,"sse41":1,"sse42":1,"ssse3":1},"ismachine":1,"nacl_arch":"x86-64","os":{"arch":"x86_64","platform":"Windows","version":"10.0.22631.4602"},"prodversion":"131.0.2903.99","protocol":"3.1","requestid":"{f4ff8ace-b247-4daf-9d03-d0141151dc24}","sessionid":"{e3506839-c8a1-4d7a-bd6e-e1802a457d22}","updaterversion":"131.0.2903.99"}}

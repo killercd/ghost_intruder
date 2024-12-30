@@ -1,0 +1,68 @@
+DNS Query: wpad.fritz.box.
+DNS Query: wpad.fritz.box.
+DNS Query: wpad.fritz.box.
+DNS Query: wpad.fritz.box.
+DNS Response for wpad.fritz.box.: 192.168.178.1
+DNS Response for wpad.fritz.box.: 192.168.178.1
+DNS Response for wpad.fritz.box.: fd00::de15:c8ff:fecb:3feb
+DNS Response for wpad.fritz.box.: fd00::de15:c8ff:fecb:3feb
+DNS Query: wpad.fritz.box.
+DNS Query: wpad.fritz.box.
+DNS Query: wpad.fritz.box.
+DNS Query: wpad.fritz.box.
+DNS Response for wpad.fritz.box.: 192.168.178.1
+DNS Response for wpad.fritz.box.: fd00::de15:c8ff:fecb:3feb
+DNS Response for wpad.fritz.box.: 192.168.178.1
+DNS Response for wpad.fritz.box.: fd00::de15:c8ff:fecb:3feb
+DNS Query: wpad.fritz.box.
+DNS Query: wpad.fritz.box.
+DNS Query: wpad.fritz.box.
+DNS Query: wpad.fritz.box.
+DNS Response for wpad.fritz.box.: 192.168.178.1
+DNS Response for wpad.fritz.box.: 192.168.178.1
+DNS Response for wpad.fritz.box.: fd00::de15:c8ff:fecb:3feb
+DNS Query: wpad.fritz.box.
+DNS Response for wpad.fritz.box.: fd00::de15:c8ff:fecb:3feb
+DNS Query: wpad.fritz.box.
+DNS Query: wpad.fritz.box.
+DNS Query: wpad.fritz.box.
+DNS Response for wpad.fritz.box.: 192.168.178.1
+DNS Response for wpad.fritz.box.: fd00::de15:c8ff:fecb:3feb
+DNS Response for wpad.fritz.box.: 192.168.178.1
+DNS Response for wpad.fritz.box.: fd00::de15:c8ff:fecb:3feb
+DNS Query: main.vscode-cdn.net.
+DNS Query: main.vscode-cdn.net.
+DNS Response for main.vscode-cdn.net.: b'vscode-cdn.z01.azurefd.net.', b'star-azurefd-prod.trafficmanager.net.', b'shed.dual-low.s-part-0032.t-0009.t-msedge.net.', b's-part-0032.t-0009.t-msedge.net.', 13.107.246.60
+DNS Response for main.vscode-cdn.net.: b'vscode-cdn.z01.azurefd.net.', b'star-azurefd-prod.trafficmanager.net.', b'shed.dual-low.s-part-0032.t-0009.t-msedge.net.', b's-part-0032.t-0009.t-msedge.net.'
+DNS Query: p2p-mad1.discovery.steamserver.net.
+DNS Query: p2p-mad1.discovery.steamserver.net.
+DNS Response for p2p-mad1.discovery.steamserver.net.: 155.133.246.51, 155.133.246.35
+DNS Response for p2p-mad1.discovery.steamserver.net.: 155.133.246.51, 155.133.246.35
+DNS Query: wpad.fritz.box.
+DNS Query: wpad.fritz.box.
+DNS Query: wpad.fritz.box.
+DNS Query: wpad.fritz.box.
+DNS Response for wpad.fritz.box.: 192.168.178.1
+DNS Response for wpad.fritz.box.: fd00::de15:c8ff:fecb:3feb
+DNS Response for wpad.fritz.box.: 192.168.178.1
+DNS Response for wpad.fritz.box.: fd00::de15:c8ff:fecb:3feb
+DNS Query: wpad.fritz.box.
+DNS Query: wpad.fritz.box.
+DNS Query: wpad.fritz.box.
+DNS Query: wpad.fritz.box.
+DNS Response for wpad.fritz.box.: 192.168.178.1
+DNS Response for wpad.fritz.box.: 192.168.178.1
+DNS Response for wpad.fritz.box.: fd00::de15:c8ff:fecb:3feb
+DNS Response for wpad.fritz.box.: fd00::de15:c8ff:fecb:3feb
+DNS Query: p2p-mad1.discovery.steamserver.net.
+DNS Query: p2p-mad1.discovery.steamserver.net.
+DNS Response for p2p-mad1.discovery.steamserver.net.: 155.133.246.35, 155.133.246.51
+DNS Query: datarouter.ol.epicgames.com.
+DNS Query: datarouter.ol.epicgames.com.
+DNS Response for p2p-mad1.discovery.steamserver.net.: 155.133.246.35, 155.133.246.51
+DNS Query: datarouter.ol.epicgames.com.
+DNS Query: datarouter.ol.epicgames.com.
+DNS Response for datarouter.ol.epicgames.com.: b'datarouter-weighted.ol.epicgames.com.', b'datarouter.cfef.live.use1a.on.epicgames.com.', 34.236.2.141, 3.217.1.29, 3.217.87.96, 34.231.97.67, 54.236.124.219, 52.21.149.11, 54.145.145.163, 52.55.53.51
+DNS Response for datarouter.ol.epicgames.com.: b'datarouter-weighted.ol.epicgames.com.', b'datarouter.cfef.live.use1a.on.epicgames.com.'
+DNS Response for datarouter.ol.epicgames.com.: b'datarouter-weighted.ol.epicgames.com.', b'datarouter.cfef.live.use1a.on.epicgames.com.'
+DNS Response for datarouter.ol.epicgames.com.: b'datarouter-weighted.ol.epicgames.com.', b'datarouter.cfef.live.use1a.on.epicgames.com.', 34.236.2.141, 3.217.1.29, 3.217.87.96, 34.231.97.67, 54.236.124.219, 52.21.149.11, 54.145.145.163, 52.55.53.51
