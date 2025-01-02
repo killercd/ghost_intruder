@@ -33,3 +33,8 @@ file.close()
 
 ## display open ports and pid in windows
 netstat -nao
+
+
+## Radagast: fuzz web application
+python radagast.py --url http://localhost:8000/vulnerabilities/FUZZ --wordlist wordlist.txt --ic 200 --timeout 1
+
